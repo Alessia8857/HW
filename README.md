@@ -1,3 +1,3 @@
 # HW
 Домашние задания на GB
-seminar **js**
+ **Every day is women`s day**
